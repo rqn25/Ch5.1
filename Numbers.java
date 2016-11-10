@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class MathClass {
+public class Numbers {
 
 	public static void main(String[] args) {
 	output(h(input()));
