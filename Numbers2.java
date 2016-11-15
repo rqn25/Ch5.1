@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class MathClass {
+public class Numbers2 {
 
 	public static void main(String[] args) {
 	//System.out.println("Math expression one: x^10");
